@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Lexend', sans-serif;
+}
+
+.cabeçalho {
+    background-color: #B8AEA5;
+    color: #864E4E;
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 02px 0;
+}
+
+.imagem-cabeçalho{
+    width: 15%;
+}
+
+.cabeçalho-lista-i{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.carro-imagem{
+    width: 25%;
+}
+
+.mercedez{
+    background-image: linear-gradient(#EADBCE,#EADBCE);
+    color: #8b5220;
+    font-family: 'Lexend', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.mercedez-titulo{
+    padding: 24px 0;
+}
+
+.mercedez-div-conteudo{
+    width: 35%;
+}
+
+.imagem-carro1{
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.imagem-carro2{
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.imagem-carro3{
+    width: 170px;
+}
+
+.parte-inferior-titulo{
+    text-align: center;
+    padding: 50px 0;
+    color: #864E4E;
+}
+
+.carros-div{
+    text-align: center;
+}
+
+.bloco-arrumar-fotos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.imagem-carro4{
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.imagem-carro5{
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.imagem-carro6{
+    width: 250px;
+    margin-bottom: 50px;
+}
+
+.imagem-carro7{
+    width: 170px;
+}
+
+.rodape{
+    background-color: #B8AEA5;
+    text-align: center;
+}
+
+.imagem-rodape{
+    height: 60px;
+    padding: 7px 0;
+}
+
+.bloco-arrumar-fotos{
+    color: #864E4E;
+}
+
+.nome-dos-carros{
+    margin-bottom: 50px;
+}
+
+.parte-inferior-titulo-1{
+    margin-bottom: 50px;
+}
+
+.parte-inferior-titulo-4{
+    margin-bottom: 20%;
+}
+
+.parte-inferior-titulo-5{
+    margin-bottom: 50px;
+}
